@@ -38,8 +38,7 @@
 ---
 
 ## 🧩 Algorithm Practice
-- **Baekjoon Online Judge**: [https://www.acmicpc.net/user/minseo000325](https://www.acmicpc.net/user/minseo000325)
-- 티어: ![Baekjoon](https://img.shields.io/badge/Baekjoon-Gold4-brightgreen)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=minseo000325&theme=dark)
 
 ---
 
