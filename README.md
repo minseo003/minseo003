@@ -17,6 +17,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -33,9 +36,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </div>
 
----
-
-## 📊 Stats & Algorithm
 
 <div align="center">
 
