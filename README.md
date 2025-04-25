@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Minseo!
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
----
+## 📫 Contact
+- Email: [gwonm305@gmail.com]
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=minseo003&show_icons=true&theme=radical" width="45%" />
+  
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseo000325" width="45%" />
+
+</div>
 
 ## 📂 주요 프로젝트
 - **[Teaming](https://github.com/Teamingg)**  
@@ -9,7 +17,6 @@
 - **[Jungmo](https://github.com/jungmo-app)**  
   일정을 한번에 한큐에! 일정공유 플랫폼
 
----
 
 ## 🛠 Tech Stack
 
@@ -23,25 +30,15 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) 
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
----
-
 ### Infrastructure  
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonaws&logoColor=white) 
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white) 
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazons3&logoColor=white)
 
----
-
 ### CI/CD  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
 
-## 🧩 Algorithm Practice
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minseo000325)](https://solved.ac/minseo000325/)
 
----
 
-## 📫 Contact
-- Email: [gwonm305@gmail.com]
