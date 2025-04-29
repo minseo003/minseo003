@@ -1,11 +1,3 @@
-<div align="center">
-
-# 👋 Hi, I'm Minseo Kwon!
-
-</div>
-
-#### 📫 Contact
-- Email: gwonm305@gmail.com
 
 ## 🔧 Skills
 
@@ -40,3 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=minseo003&show_icons=true&theme=radical" width="45%" />
 
 </div>
+
+
+#### 📫 Contact
+- Email: gwonm305@gmail.com
+
